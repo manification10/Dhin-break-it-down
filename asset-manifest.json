@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.a6bdbac5.chunk.js",
-    "main.js.map": "/static/js/main.a6bdbac5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.107bb8ca.js",
-    "runtime-main.js.map": "/static/js/runtime-main.107bb8ca.js.map",
-    "static/js/2.ac433556.chunk.js": "/static/js/2.ac433556.chunk.js",
-    "static/js/2.ac433556.chunk.js.map": "/static/js/2.ac433556.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2543cf35524d62b6ea06dbe20a01d88d.js": "/precache-manifest.2543cf35524d62b6ea06dbe20a01d88d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.ac433556.chunk.js.LICENSE.txt": "/static/js/2.ac433556.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/dhin-break-it-down/static/css/main.d1b05096.chunk.css",
+    "main.js": "/dhin-break-it-down/static/js/main.bb22fa67.chunk.js",
+    "main.js.map": "/dhin-break-it-down/static/js/main.bb22fa67.chunk.js.map",
+    "runtime-main.js": "/dhin-break-it-down/static/js/runtime-main.f5e679f8.js",
+    "runtime-main.js.map": "/dhin-break-it-down/static/js/runtime-main.f5e679f8.js.map",
+    "static/js/2.2708744d.chunk.js": "/dhin-break-it-down/static/js/2.2708744d.chunk.js",
+    "static/js/2.2708744d.chunk.js.map": "/dhin-break-it-down/static/js/2.2708744d.chunk.js.map",
+    "index.html": "/dhin-break-it-down/index.html",
+    "precache-manifest.4cfb2bef03091f1d9aaf16b5baaf2ef6.js": "/dhin-break-it-down/precache-manifest.4cfb2bef03091f1d9aaf16b5baaf2ef6.js",
+    "service-worker.js": "/dhin-break-it-down/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/dhin-break-it-down/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2708744d.chunk.js.LICENSE.txt": "/dhin-break-it-down/static/js/2.2708744d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dhin-break-it-down/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.107bb8ca.js",
-    "static/js/2.ac433556.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a6bdbac5.chunk.js"
+    "static/js/runtime-main.f5e679f8.js",
+    "static/js/2.2708744d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.bb22fa67.chunk.js"
   ]
 }
