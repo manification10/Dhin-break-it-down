@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dhin-break-it-down/precache-manifest.4cfb2bef03091f1d9aaf16b5baaf2ef6.js"
+  "/dhin-break-it-down/precache-manifest.b9fdbe8ec6cdd61f5dbe88eed60aa49b.js"
 );
 
 self.addEventListener('message', (event) => {
