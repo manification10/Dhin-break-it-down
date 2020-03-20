@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://manification10.github.io/dhin-break-it-down/",
+  "homepage": "https://manification10.github.io/dhin-break-it-down/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -12,6 +12,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.0",
     "react-video-js-player": "^1.1.1",
+    "video.js": "^7.0.3",
     "videojs-youtube": "^2.6.1"
   },
   "scripts": {
